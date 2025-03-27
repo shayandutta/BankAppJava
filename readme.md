@@ -1,0 +1,1 @@
+This is a simple Bank Account System implemented in Java using Object-Oriented Programming (OOP) principles like Encapsulation, Inheritance, Polymorphism, and Method Overriding.
